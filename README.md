@@ -1,6 +1,9 @@
 ## Hi there 👋
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitdutta428&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdutta428&layout=compact&theme=radical)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ankitdutta428&theme=dark&hide_border=true)
 
