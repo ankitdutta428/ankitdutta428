@@ -1,8 +1,8 @@
 ## Hi there 👋
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitdutta428&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ankitdutta428&theme=dark&hide_border=true)
 
 
 
