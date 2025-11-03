@@ -1,4 +1,10 @@
 ## Hi there 👋
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
+
 
 <!--
 **ankitdutta428/ankitdutta428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
